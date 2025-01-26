@@ -1,0 +1,18 @@
+{
+    "title": "Questionnaire sur moins",
+    "minimum_score": 2,
+    "success_message": "Félicitations! Vous me connaissez",
+    "failure_message": "Dommage!",
+    "questions": [
+        {
+            "question": "Quelle est ma couleur pref",
+            "choices": ["Bleu","Rouge","Blanc"],
+            "correct_answer":"Blanc"
+        },
+        {
+            "question": "Quelle est ma couleur preferr",
+            "choices": ["Bleue","Rouge","Blanc"],
+            "correct_answer":"Blanc"
+        }
+    ]
+}
