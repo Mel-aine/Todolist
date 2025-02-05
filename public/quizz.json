@@ -1,18 +1,84 @@
 {
-    "title": "Questionnaire sur moins",
-    "minimum_score": 2,
-    "success_message": "Félicitations! Vous me connaissez",
-    "failure_message": "Dommage!",
+    "title": "Quiz sur moi",
+    "minimum_score": 8,
+    "success_message": "Merci ! Vous me connaissez bien… mais peut-être encore pas assez ! 😏🎉 🎉",
+    "failure_message": "Oups... On dirait que vous ne me connaissez pas encore si bien ! Mais ne vous inquiétez pas, il n'est jamais trop tard pour apprendre. 😉",
     "questions": [
         {
-            "question": "Quelle est ma couleur pref",
-            "choices": ["Bleu","Rouge","Blanc"],
-            "correct_answer":"Blanc"
+            "question": "Quelle est ma date de naissance ?",
+            "choices": ["20 Septembre 1996","20 juillet 1996","20 juin 1996","20 mai 1996"],
+            "correct_answer":"20 juillet 1996"
         },
         {
-            "question": "Quelle est ma couleur preferr",
-            "choices": ["Bleue","Rouge","Blanc"],
-            "correct_answer":"Blanc"
+            "question": "Quel est mon plat préféré ?",
+            "choices": ["Eru wata-fufu","Poulet sous toutes ses formes Baton de manioc","Ndolet plantains murs","Porc roti"],
+            "correct_answer":"Poulet sous toutes ses formes Baton de manioc"
+        },
+        {
+            "question": "Quelle est ma taille?",
+            "choices": ["1m 70cm","1m 65cm","1m 75cm","1m 64cm"],
+            "correct_answer":"1m 65cm"
+        },
+        {
+            "question": "Quelle est ma couleur favorite ?",
+            "choices": ["Orange","Rose","Noir","Violet"],
+            "correct_answer":"Noir"
+        },
+        {
+            "question": "Si je pouvais voyager n'importe où, où irais-je en premier ?",
+            "choices": ["France-Paris","France-Monaco","Etats Unis-Los Angeles","Dubai"],
+            "correct_answer":"Etats Unis-Los Angeles"
+        },
+        {
+            "question": "Quel est mon film ou ma série préférée ?",
+            "choices": ["Le Diable s'habille en Prada","Les Freres Scott","Physic ou Chimie","La famille Kardashian"],
+            "correct_answer":"Le Diable s'habille en Prada"
+        },
+        {
+            "question": "Quelle est une de mes plus grandes qualités ?",
+            "choices": ["Ma Loyauté","Mon sens de l'humour","Ma détermination","Ma patience"],
+            "correct_answer":"Ma Loyauté"
+        },
+        {
+            "question": "Quel est mon plus grand rêve ou objectif dans la vie ?",
+            "choices": ["Fonder une famille heureuse","Devenir indépendant financièrement","Voyager autour du monde","Toutes Les réponses"],
+            "correct_answer":"Toutes Les réponses"
+        },
+        {
+            "question": "Quel est mon animal préféré ?",
+            "choices": ["Chien","Chat","je n'en ai pas","Dauphin"],
+            "correct_answer":"je n'en ai pas"
+        },
+        {
+            "question": "Quel est mon genre musical préféré ?",
+            "choices": ["slow","Pop","Rap","Tous les genres"],
+            "correct_answer":"Tous les genres"
+        },
+        {
+            "question": "Quel est mon club de football préféré ?",
+            "choices": ["Fc Barcelone","Real Madrid","Manchester City","Liverpool"],
+            "correct_answer":"Real Madrid"
+        },
+        {
+            "question": "Qu'est-ce que j'aime faire pour déstresser ?",
+            "choices": ["Lire","Danser","Chanter","Faire l'amour"],
+            "correct_answer":"Faire l'amour"
+        },
+        {
+            "question": "Quelle est ma plus grande peur ?",
+            "choices": ["Perdre la santé ou un être cher.","La peur de l’échec","La peur de l’inconnu","Toutes Les réponses"],
+            "correct_answer":"Perdre la santé ou un être cher."
+        },
+        {
+            "question": "Quelle est la chose qui me rend le plus fière ?",
+            "choices": ["Rendre ma mère heureuse","Avoir atteint un objectif personnel","Avoir surmonté une difficulté","Toutes Les réponses"],
+            "correct_answer":"Rendre ma mère heureuse"
+        },
+        {
+            "question": "Quel est mon plus grand regret ?",
+            "choices": ["Avoir accordé ma confiance à une personne qui n’en a pas pris soin, et qui m’a déçu profondément","Avoir mis trop de temps à comprendre ce que signifie vraiment aimer, et ne pas avoir pris le temps de le vivre pleinement.","Je n’ai pas de regret, car je pense que chaque expérience m’a appris quelque chose et m’a aidé à grandir.","Avoir déçu ma mère à un moment donné, quand elle comptait sur moi, et avoir senti que je n’étais pas à la hauteur de ses attentes."],
+            "correct_answer":"Je n’ai pas de regret, car je pense que chaque expérience m’a appris quelque chose et m’a aidé à grandir."
         }
+
     ]
 }
